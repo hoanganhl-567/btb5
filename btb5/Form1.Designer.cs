@@ -1,4 +1,4 @@
-﻿namespace btb5
+namespace btb5
 {
     partial class Form1
     {
@@ -68,7 +68,7 @@
             this.địnhDạngToolStripMenuItem1});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 30);
+            this.menuStrip1.Size = new System.Drawing.Size(800, 28);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -81,13 +81,14 @@
             this.thoátToolStripMenuItem,
             this.thoátToolStripMenuItem1});
             this.hệThốngToolStripMenuItem.Name = "hệThốngToolStripMenuItem";
-            this.hệThốngToolStripMenuItem.Size = new System.Drawing.Size(89, 26);
+            this.hệThốngToolStripMenuItem.Size = new System.Drawing.Size(89, 24);
             this.hệThốngToolStripMenuItem.Text = "Hệ thống ";
             // 
             // tạoTậpTinToolStripMenuItem
             // 
             this.tạoTậpTinToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.ctrlNToolStripMenuItem});
+            this.tạoTậpTinToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("tạoTậpTinToolStripMenuItem.Image")));
             this.tạoTậpTinToolStripMenuItem.Name = "tạoTậpTinToolStripMenuItem";
             this.tạoTậpTinToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.N)));
             this.tạoTậpTinToolStripMenuItem.Size = new System.Drawing.Size(285, 26);
@@ -102,6 +103,7 @@
             // 
             // mởTậpTinToolStripMenuItem
             // 
+            this.mởTậpTinToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("mởTậpTinToolStripMenuItem.Image")));
             this.mởTậpTinToolStripMenuItem.Name = "mởTậpTinToolStripMenuItem";
             this.mởTậpTinToolStripMenuItem.Size = new System.Drawing.Size(285, 26);
             this.mởTậpTinToolStripMenuItem.Text = "Mở tập tin";
@@ -114,6 +116,7 @@
             // 
             // thoátToolStripMenuItem
             // 
+            this.thoátToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("thoátToolStripMenuItem.Image")));
             this.thoátToolStripMenuItem.Name = "thoátToolStripMenuItem";
             this.thoátToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.S)));
             this.thoátToolStripMenuItem.Size = new System.Drawing.Size(285, 26);
@@ -146,9 +149,9 @@
             this.toolStripButton3,
             this.toolStripButton4,
             this.toolStripButton5});
-            this.toolStrip1.Location = new System.Drawing.Point(0, 30);
+            this.toolStrip1.Location = new System.Drawing.Point(0, 28);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(800, 31);
+            this.toolStrip1.Size = new System.Drawing.Size(800, 28);
             this.toolStrip1.TabIndex = 2;
             this.toolStrip1.Text = "toolStrip1";
             // 
@@ -158,7 +161,7 @@
             this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
             this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton1.Name = "toolStripButton1";
-            this.toolStripButton1.Size = new System.Drawing.Size(29, 28);
+            this.toolStripButton1.Size = new System.Drawing.Size(29, 25);
             this.toolStripButton1.Text = "toolStripButton1";
             this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
