@@ -140,10 +140,3 @@ namespace btb5
         }
     }
 }
-
-
-Copy hay tự làm tao lấy trên chat rồi sửa lại thôi á
-  hoồi trưa t có bấm git 1 lần giống bạn hồi sáng á create gì á
-    b coi github có k 
-còn 1 cách nx là dùng lệnh mà m ko có tỉa cái git về nên đành phải tạo 1 cái project 
-    mới ở folder mới thì nó mới có cái crea repository
